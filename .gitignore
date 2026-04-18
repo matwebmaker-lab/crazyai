@@ -4,9 +4,6 @@
 *.pyo
 *.spec
 .env
-<<<<<<< HEAD
-=======
->>>>>>> ui-layer
 __pycache__/
 build/
 dist/

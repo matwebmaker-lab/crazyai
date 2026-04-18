@@ -86,12 +86,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-**Linux / macOS:**
-
-```bash
-source venv/bin/activate
-```
-
 ### Step 6: Install Dependencies
 
 ```bash
